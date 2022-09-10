@@ -50,3 +50,4 @@
 
 
 [PatikaDev profilim](https://app.patika.dev/fatihsakar)
+[https://www.patika.dev]
