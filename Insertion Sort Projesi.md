@@ -49,4 +49,4 @@
 >>4.aşama [2,3,4,5,6,9,8,15,7]
 
 
-Fatih Sakar
+[PatikaDev profilim](https://app.patika.dev/fatihsakar)
